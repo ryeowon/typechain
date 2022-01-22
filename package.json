@@ -6,6 +6,7 @@
   "author": "Ryeowon Hong <ryeowon13@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "typescript": "^4.5.5"
   },
   "scripts": {
